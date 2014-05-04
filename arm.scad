@@ -31,4 +31,4 @@ module arm() {
 	}
 }
 
-//arm();
+arm();
